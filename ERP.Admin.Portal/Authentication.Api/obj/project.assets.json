@@ -5353,11 +5353,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ERP_Admin_portal\\ERP.Admin.Portal\\ERP.Admin.Portal\\Authentication.Api\\Authentication.Api.csproj",
+      "projectUniqueName": "E:\\University\\GitHub\\Asp.net-Jwt-Authentication-Microservice\\ERP.Admin.Portal\\Authentication.Api\\Authentication.Api.csproj",
       "projectName": "Authentication.Api",
-      "projectPath": "E:\\ERP_Admin_portal\\ERP.Admin.Portal\\ERP.Admin.Portal\\Authentication.Api\\Authentication.Api.csproj",
+      "projectPath": "E:\\University\\GitHub\\Asp.net-Jwt-Authentication-Microservice\\ERP.Admin.Portal\\Authentication.Api\\Authentication.Api.csproj",
       "packagesPath": "C:\\Users\\SHENITH\\.nuget\\packages\\",
-      "outputPath": "E:\\ERP_Admin_portal\\ERP.Admin.Portal\\ERP.Admin.Portal\\Authentication.Api\\obj\\",
+      "outputPath": "E:\\University\\GitHub\\Asp.net-Jwt-Authentication-Microservice\\ERP.Admin.Portal\\Authentication.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SHENITH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5375,14 +5375,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\ERP_Admin_portal\\ERP.Admin.Portal\\ERP.Admin.Portal\\Authentication.Core\\Authentication.Core.csproj": {
-              "projectPath": "E:\\ERP_Admin_portal\\ERP.Admin.Portal\\ERP.Admin.Portal\\Authentication.Core\\Authentication.Core.csproj"
+            "E:\\University\\GitHub\\Asp.net-Jwt-Authentication-Microservice\\ERP.Admin.Portal\\Authentication.Core\\Authentication.Core.csproj": {
+              "projectPath": "E:\\University\\GitHub\\Asp.net-Jwt-Authentication-Microservice\\ERP.Admin.Portal\\Authentication.Core\\Authentication.Core.csproj"
             },
-            "E:\\ERP_Admin_portal\\ERP.Admin.Portal\\ERP.Admin.Portal\\Authentication.DataService\\Authentication.DataService.csproj": {
-              "projectPath": "E:\\ERP_Admin_portal\\ERP.Admin.Portal\\ERP.Admin.Portal\\Authentication.DataService\\Authentication.DataService.csproj"
+            "E:\\University\\GitHub\\Asp.net-Jwt-Authentication-Microservice\\ERP.Admin.Portal\\Authentication.DataService\\Authentication.DataService.csproj": {
+              "projectPath": "E:\\University\\GitHub\\Asp.net-Jwt-Authentication-Microservice\\ERP.Admin.Portal\\Authentication.DataService\\Authentication.DataService.csproj"
             },
-            "E:\\ERP_Admin_portal\\ERP.Admin.Portal\\ERP.Admin.Portal\\Authentication.JwtToken\\Authentication.JwtToken.csproj": {
-              "projectPath": "E:\\ERP_Admin_portal\\ERP.Admin.Portal\\ERP.Admin.Portal\\Authentication.JwtToken\\Authentication.JwtToken.csproj"
+            "E:\\University\\GitHub\\Asp.net-Jwt-Authentication-Microservice\\ERP.Admin.Portal\\Authentication.JwtToken\\Authentication.JwtToken.csproj": {
+              "projectPath": "E:\\University\\GitHub\\Asp.net-Jwt-Authentication-Microservice\\ERP.Admin.Portal\\Authentication.JwtToken\\Authentication.JwtToken.csproj"
             }
           }
         }

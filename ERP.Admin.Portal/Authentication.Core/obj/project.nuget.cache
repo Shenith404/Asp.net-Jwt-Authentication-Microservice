@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yv61U3FelpyL+H3iEAjvx3Cwr1zLCi6p/d69QA2yn7IYaZbP+9zmW/Dh/KCrN2YztvqsoXlPrJ+hHUOgLwKdwg==",
+  "dgSpecHash": "0YG3Jxl6xj3fDltE0ziTH4oMbrsTqeIe9CXa3Vj6FmCXLA8Z78W8hOKB1gO6R9u2CLpBd85e/1gMWPl+QsooQg==",
   "success": true,
-  "projectFilePath": "E:\\ERP_Admin_portal\\ERP.Admin.Portal\\ERP.Admin.Portal\\Authentication.Core\\Authentication.Core.csproj",
+  "projectFilePath": "E:\\University\\GitHub\\Asp.net-Jwt-Authentication-Microservice\\ERP.Admin.Portal\\Authentication.Core\\Authentication.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SHENITH\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\SHENITH\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

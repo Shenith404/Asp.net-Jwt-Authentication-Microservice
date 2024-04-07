@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bopXOnoRzaLUWqdsfSqZ6lNEyi9WO6jBiWxhQwHKtP1Lpi8bRlQt6oEVxVsj1hNNH61Uju7k+9FcsVRNxXJkqw==",
+  "dgSpecHash": "zP/A5RKGdJQVV6grpeEcn9HTA+p09hA3SsumRign3bSxnjR/rgGTT+G/i2SYabEtV2p/2rkhgCpod+IzjmFAhA==",
   "success": true,
-  "projectFilePath": "E:\\ERP_Admin_portal\\ERP.Admin.Portal\\ERP.Admin.Portal\\Authentication.JwtToken\\Authentication.JwtToken.csproj",
+  "projectFilePath": "E:\\University\\GitHub\\Asp.net-Jwt-Authentication-Microservice\\ERP.Admin.Portal\\Authentication.JwtToken\\Authentication.JwtToken.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SHENITH\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\SHENITH\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

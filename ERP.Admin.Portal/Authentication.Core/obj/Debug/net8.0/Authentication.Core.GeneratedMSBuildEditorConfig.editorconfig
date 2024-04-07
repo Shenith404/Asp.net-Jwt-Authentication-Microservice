@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Authentication.Core
-build_property.ProjectDir = E:\ERP_Admin_portal\ERP.Admin.Portal\ERP.Admin.Portal\Authentication.Core\
+build_property.ProjectDir = E:\University\GitHub\Asp.net-Jwt-Authentication-Microservice\ERP.Admin.Portal\Authentication.Core\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

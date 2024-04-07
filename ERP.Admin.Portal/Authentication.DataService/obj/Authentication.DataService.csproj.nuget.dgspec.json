@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ERP_Admin_portal\\ERP.Admin.Portal\\ERP.Admin.Portal\\Authentication.DataService\\Authentication.DataService.csproj": {}
+    "E:\\University\\GitHub\\Asp.net-Jwt-Authentication-Microservice\\ERP.Admin.Portal\\Authentication.DataService\\Authentication.DataService.csproj": {}
   },
   "projects": {
-    "E:\\ERP_Admin_portal\\ERP.Admin.Portal\\ERP.Admin.Portal\\Authentication.Core\\Authentication.Core.csproj": {
+    "E:\\University\\GitHub\\Asp.net-Jwt-Authentication-Microservice\\ERP.Admin.Portal\\Authentication.Core\\Authentication.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ERP_Admin_portal\\ERP.Admin.Portal\\ERP.Admin.Portal\\Authentication.Core\\Authentication.Core.csproj",
+        "projectUniqueName": "E:\\University\\GitHub\\Asp.net-Jwt-Authentication-Microservice\\ERP.Admin.Portal\\Authentication.Core\\Authentication.Core.csproj",
         "projectName": "Authentication.Core",
-        "projectPath": "E:\\ERP_Admin_portal\\ERP.Admin.Portal\\ERP.Admin.Portal\\Authentication.Core\\Authentication.Core.csproj",
+        "projectPath": "E:\\University\\GitHub\\Asp.net-Jwt-Authentication-Microservice\\ERP.Admin.Portal\\Authentication.Core\\Authentication.Core.csproj",
         "packagesPath": "C:\\Users\\SHENITH\\.nuget\\packages\\",
-        "outputPath": "E:\\ERP_Admin_portal\\ERP.Admin.Portal\\ERP.Admin.Portal\\Authentication.Core\\obj\\",
+        "outputPath": "E:\\University\\GitHub\\Asp.net-Jwt-Authentication-Microservice\\ERP.Admin.Portal\\Authentication.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SHENITH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -75,14 +75,14 @@
         }
       }
     },
-    "E:\\ERP_Admin_portal\\ERP.Admin.Portal\\ERP.Admin.Portal\\Authentication.DataService\\Authentication.DataService.csproj": {
+    "E:\\University\\GitHub\\Asp.net-Jwt-Authentication-Microservice\\ERP.Admin.Portal\\Authentication.DataService\\Authentication.DataService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ERP_Admin_portal\\ERP.Admin.Portal\\ERP.Admin.Portal\\Authentication.DataService\\Authentication.DataService.csproj",
+        "projectUniqueName": "E:\\University\\GitHub\\Asp.net-Jwt-Authentication-Microservice\\ERP.Admin.Portal\\Authentication.DataService\\Authentication.DataService.csproj",
         "projectName": "Authentication.DataService",
-        "projectPath": "E:\\ERP_Admin_portal\\ERP.Admin.Portal\\ERP.Admin.Portal\\Authentication.DataService\\Authentication.DataService.csproj",
+        "projectPath": "E:\\University\\GitHub\\Asp.net-Jwt-Authentication-Microservice\\ERP.Admin.Portal\\Authentication.DataService\\Authentication.DataService.csproj",
         "packagesPath": "C:\\Users\\SHENITH\\.nuget\\packages\\",
-        "outputPath": "E:\\ERP_Admin_portal\\ERP.Admin.Portal\\ERP.Admin.Portal\\Authentication.DataService\\obj\\",
+        "outputPath": "E:\\University\\GitHub\\Asp.net-Jwt-Authentication-Microservice\\ERP.Admin.Portal\\Authentication.DataService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SHENITH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -100,8 +100,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\ERP_Admin_portal\\ERP.Admin.Portal\\ERP.Admin.Portal\\Authentication.Core\\Authentication.Core.csproj": {
-                "projectPath": "E:\\ERP_Admin_portal\\ERP.Admin.Portal\\ERP.Admin.Portal\\Authentication.Core\\Authentication.Core.csproj"
+              "E:\\University\\GitHub\\Asp.net-Jwt-Authentication-Microservice\\ERP.Admin.Portal\\Authentication.Core\\Authentication.Core.csproj": {
+                "projectPath": "E:\\University\\GitHub\\Asp.net-Jwt-Authentication-Microservice\\ERP.Admin.Portal\\Authentication.Core\\Authentication.Core.csproj"
               }
             }
           }

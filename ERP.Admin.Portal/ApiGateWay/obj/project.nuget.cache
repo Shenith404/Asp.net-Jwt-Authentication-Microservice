@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yDAjw9XPPegZlyCzfbO7TtooLrkn2dZ73QRL1sy3OPGc15K5ySGAsEJ/wGMySHbPEq6nXaAhIe7/Y/mV+Xxqyg==",
+  "dgSpecHash": "qlVxjabgm/yOj+uObpV32GAx5un+dadP6j+cwIUXj0uFmC7kScPSQUp9Gi2JOxUoU5g6ar2YRdwXPlq2oXrMTw==",
   "success": true,
-  "projectFilePath": "E:\\ERP_Admin_portal\\ERP.Admin.Portal\\ERP.Admin.Portal\\ApiGateWay\\ApiGateWay.csproj",
+  "projectFilePath": "E:\\University\\GitHub\\Asp.net-Jwt-Authentication-Microservice\\ERP.Admin.Portal\\ApiGateWay\\ApiGateWay.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

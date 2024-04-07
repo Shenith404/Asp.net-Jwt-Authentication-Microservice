@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ERP_Admin_portal\\ERP.Admin.Portal\\ERP.Admin.Portal\\ApiGateWay\\ApiGateWay.csproj",
+      "projectUniqueName": "E:\\University\\GitHub\\Asp.net-Jwt-Authentication-Microservice\\ERP.Admin.Portal\\ApiGateWay\\ApiGateWay.csproj",
       "projectName": "ApiGateWay",
-      "projectPath": "E:\\ERP_Admin_portal\\ERP.Admin.Portal\\ERP.Admin.Portal\\ApiGateWay\\ApiGateWay.csproj",
+      "projectPath": "E:\\University\\GitHub\\Asp.net-Jwt-Authentication-Microservice\\ERP.Admin.Portal\\ApiGateWay\\ApiGateWay.csproj",
       "packagesPath": "C:\\Users\\SHENITH\\.nuget\\packages\\",
-      "outputPath": "E:\\ERP_Admin_portal\\ERP.Admin.Portal\\ERP.Admin.Portal\\ApiGateWay\\obj\\",
+      "outputPath": "E:\\University\\GitHub\\Asp.net-Jwt-Authentication-Microservice\\ERP.Admin.Portal\\ApiGateWay\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SHENITH\\AppData\\Roaming\\NuGet\\NuGet.Config",

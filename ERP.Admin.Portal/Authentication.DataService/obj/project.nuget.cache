@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HGIUtkHa+rxb4wkgxk15NaQPeG2qO7SH2316z7bl+Rx2lHT/xKxX/EdsWZSqSSiNyzze3i5p7lea2y/X5dDSRQ==",
+  "dgSpecHash": "W5Td6p0VpU7qk9WXmhNzdU5cB2lc38hUtMbqbSla0K7vtIoAFz0XDpSXjebPh/E5B5b2caF2l/sMeGymuJww0A==",
   "success": true,
-  "projectFilePath": "E:\\ERP_Admin_portal\\ERP.Admin.Portal\\ERP.Admin.Portal\\Authentication.DataService\\Authentication.DataService.csproj",
+  "projectFilePath": "E:\\University\\GitHub\\Asp.net-Jwt-Authentication-Microservice\\ERP.Admin.Portal\\Authentication.DataService\\Authentication.DataService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SHENITH\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\SHENITH\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

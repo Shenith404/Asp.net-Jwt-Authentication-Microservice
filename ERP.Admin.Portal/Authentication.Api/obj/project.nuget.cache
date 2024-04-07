@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ChI79YBvBEQnERQqrECAdZuK7eQIGZKjpDJo5dCy3vAwhjRK6bc95ymBbeztCzqbTcB4etb2aPy0PH6aYvfJDw==",
+  "dgSpecHash": "wlgyHjdOVKpfT14PZf+jfSWQ1HcI0q2fY/YcEJ3InIeK9BHt1bB52oD+mx7NfMMv6MwR5d2v8RbJ10BRUykZFw==",
   "success": true,
-  "projectFilePath": "E:\\ERP_Admin_portal\\ERP.Admin.Portal\\ERP.Admin.Portal\\Authentication.Api\\Authentication.Api.csproj",
+  "projectFilePath": "E:\\University\\GitHub\\Asp.net-Jwt-Authentication-Microservice\\ERP.Admin.Portal\\Authentication.Api\\Authentication.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SHENITH\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\SHENITH\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
