@@ -1,0 +1,19 @@
+version: '3.4'
+
+services:
+  authenticatedb:
+    container_name: app-db
+    image: mcr.microsoft.com/mssql/server
+    ports:
+        - 8002:1433
+    environment:
+        - ACCEPT_EULA=Y
+        - MSSQL_SA_PASSWORD=1234
+  authentication.api:
+    container_name: authenticaton-app
+    image: ${DOCKER_REGISTRY-}authenticationapi
+    build:
+      context: .
+      dockerfile: Authentication.Api/Dockerfile
+    ports:
+        - 8001:8080

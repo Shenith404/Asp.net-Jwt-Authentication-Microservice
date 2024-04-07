@@ -1,0 +1,6 @@
+﻿{
+  "jwt": {
+    "secret": "yyAhYj6LYNzoL8bRVKbuF2EfKMKN05WComWtIVa5AUSScmiNWBFam8jFcwvZ54lR",
+    "ExpireTime" : "00:00:30"
+  }
+}
